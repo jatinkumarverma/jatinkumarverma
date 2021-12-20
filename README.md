@@ -37,11 +37,11 @@ Hi , I'm  JATIN KUMAR VERMA </i> </a>
  </p>
  
 
-![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&theme=tokyonight&count_private=true)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chiru30&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
+![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinkumarverma&show_icons=true&theme=tokyonight&count_private=true)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkumarverma&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
 
 
-[![Jatin's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=react-dark)](https://github.com/jatinkumarverma/github-readme-activity-graph)
+[![Jatin's github activity graph](https://activity-graph.herokuapp.com/graph?username=jatinkumarverma&theme=react-dark)](https://github.com/jatinkumarverma/github-readme-activity-graph)
 
 
 <!---
