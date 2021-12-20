@@ -21,9 +21,13 @@ Hi , I'm  JATIN KUMAR VERMA </i> </a>
  <a href="https://www.linkedin.com/in/jatinverma2911" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://twitter.com/jatinkumarverm" target="_blank">
-<img src=https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjatinkumarvermalt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://instagram.com/jatinkumarvermaa" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23ff0000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+ <a href="https://twitter.com/jatinkumarverm" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
 
 
 </h3>
