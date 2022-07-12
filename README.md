@@ -52,7 +52,7 @@ Hi , I'm  JATIN KUMAR VERMA </i> </a>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkumarverma&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
 
 
-[![Jatin's github activity graph](https://activity-graph.herokuapp.com/graph?username=jatinkumarverma&theme=react-dark)](https://github.com/jatinkumarverma/github-readme-activity-graph)
+
 
 
 <!---
