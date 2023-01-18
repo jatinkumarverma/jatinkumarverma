@@ -2,6 +2,10 @@
 Hi , I'm  JATIN KUMAR VERMA </i> </a>
 <img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="150"></h1>
 <br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/j/count.svg?"  />
+</div>
+
 <h1 align="center"> <img src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47ywi6hmkedmk9ukd1hjnplttdw3d7rb63jqfladk0&rid=200w.webp&ct=g.gif"></h1>
 
 # 💫 About Me:
