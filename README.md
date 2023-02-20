@@ -2,11 +2,14 @@
 Hi , I'm  JATIN KUMAR VERMA </i> </a>
 
 <br>
+
+
+<h1 align="center"> <img src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47ywi6hmkedmk9ukd1hjnplttdw3d7rb63jqfladk0&rid=200w.webp&ct=g.gif">
 <div align="center">
   <img src="https://profile-counter.glitch.me/j/count.svg?"  />
 </div>
+</h1>
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47ywi6hmkedmk9ukd1hjnplttdw3d7rb63jqfladk0&rid=200w.webp&ct=g.gif"></h1>
 
 # 💫 About Me:
 <br>💡Ideating and building everything from grassroot to galaxy<br><br>🌱 I’m currently exploring Data Science , Machine Learning and Deep Learning
