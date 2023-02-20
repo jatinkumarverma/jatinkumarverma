@@ -1,6 +1,6 @@
 <h1 align="center"> 
 Hi , I'm  JATIN KUMAR VERMA </i> </a>
-<img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="150"></h1>
+
 <br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/j/count.svg?"  />
