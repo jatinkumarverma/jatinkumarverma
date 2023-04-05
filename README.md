@@ -15,9 +15,6 @@ Hi , I'm  JATIN KUMAR VERMA </i> </a>
 <br>💡Ideating and building everything from grassroot to galaxy<br><br>🌱 I’m currently exploring Data Science , Machine Learning and Deep Learning
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jatinkumarvermaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinverma2911) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatinkumarverm) 
-
 <br/>
 
 
